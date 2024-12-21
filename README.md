@@ -1,6 +1,8 @@
 # Grand Race Randomizer
 A randomizer for Grand Races in The Crew Motorfest that will randomly choose which car manufacturer for you to use in each section of the race.
 
+![Model](https://i.imgur.com/7sjunV4.png)
+
 # Usage
 It works by assigning each race category of the Grand Race to three dropdown menus, where each category inside the dropdown menu has a list assigned to it with all the car manufacturer options you can use in said category. Going from left to right you will choose which rotation the current Grand Race is, and then hit the Randomize button. The results will populate underneath for you to follow.
 
